@@ -1,0 +1,3 @@
+1. Add confidence_score column:
+Return a confidence score (e.g., probability from logistic regression or softmax from LLM) with each predicted label.
+2. 
